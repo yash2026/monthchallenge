@@ -33,5 +33,10 @@ li a {
 
 li a:hover,
 li a:active{
-    color: rgb(126,1,84);
+    color: rgb(126,1,84x
+}
+
+@media (max-width: 768px){
+    font-size: 24px;
+    padding: 50px;
 }
